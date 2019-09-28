@@ -1,5 +1,7 @@
 {
   "name": "ionicSplashLottie",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
